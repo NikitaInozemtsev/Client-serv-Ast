@@ -58,7 +58,7 @@ div > a:hover:after {
 	
 	margin: 0;
 	padding: 0;
-	background-image: url(../image/start-image.jpg);
+	background-image: url(../image/img/start-image.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -113,7 +113,7 @@ div > a:hover:after {
 	overflow: hidden;
 	margin: 0;
 	padding: 0;
-	background: url('../image/depositphotos_54500347-stock-photo-night-starry-sky.jpg');
+	background: url('../image/img/depositphotos_54500347-stock-photo-night-starry-sky.jpg');
 }
 
 .pg {
@@ -123,7 +123,7 @@ div > a:hover:after {
 	background-color: black;
 	padding-left: 1%;
 	overflow: auto;
-	background: url('../image/depositphotos_54500347-stock-photo-night-starry-sky.jpg');
+	background: url('../image/img/depositphotos_54500347-stock-photo-night-starry-sky.jpg');
 }
 
 .fish {
@@ -257,7 +257,7 @@ nav ul li:hover {
 	flex-direction: column;
 	justify-content: center;
 	text-align: center;
-	background: url('../image/depositphotos_54500347-stock-photo-night-starry-sky.jpg');
+	background: url('../image/img/depositphotos_54500347-stock-photo-night-starry-sky.jpg');
 }
 
 .ab {
@@ -282,7 +282,7 @@ nav ul li:hover {
 	overflow: auto;
 	display: flex;
 	flex-direction: row;
-	background: url('../image/depositphotos_54500347-stock-photo-night-starry-sky.jpg');
+	background: url('../image/img/depositphotos_54500347-stock-photo-night-starry-sky.jpg');
 }
 
 .gal > div {
@@ -359,7 +359,7 @@ span {
 	}
 	#start {
 		
-		background-image: url(../image/start-image-min.jpg);
+		background-image: url(../image/img/start-image-min.jpg);
 		height: calc(100vh - 40px);
 	}
 	.navigation {
