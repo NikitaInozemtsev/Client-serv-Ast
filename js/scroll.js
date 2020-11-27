@@ -1,6 +1,4 @@
 let object = document.getElementById('start');
-	let object1 = document.getElementById('startLeft');
-	let heig = object1.offsetWidth / 3.33;
 	let rot = document.getElementById('stRotate');
 	let rot1 = document.getElementById('centerImg');
 	let rot2 = document.getElementById('centerImg2');
